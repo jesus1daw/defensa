@@ -1,2 +1,4 @@
 texto ejemplo
 nueva linea
+Cambio en el documento2
+Cambios en documento2 desde mirama
